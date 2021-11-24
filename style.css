@@ -1,3 +1,65 @@
+/*~~~~~~~~~~~~~~~~~~~~~
+    Global  Style
+ ~~~~~~~~~~~~~~~~~~~~~ */
+
 header {
     background-color: #264653;
 }
+footer {
+    background-color: black;
+}
+
+ul {
+    padding: 0;
+}
+ul li {
+    list-style: none;
+    display: inline-block;
+    padding-right: 20px;
+}
+ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.btn {
+    padding: 12px 25px;
+    color: #e77c40;
+    border: 1px solid #e77c40;
+    border-radius: 10px;
+    transition: all 0.3s;
+    font-weight: 600;
+}
+.btn:hover,
+.btn-active {
+    background-color: #e77c40;
+    color: white;
+}
+
+.footer-btn {
+    padding: 15px 25px;
+    color: white;
+    background-color: black;
+    border: 1px solid White;
+    border-radius: 10px;
+    transition: all 0.3s;
+    font-weight: 600;
+}
+
+.footer-btn:hover {
+    border: 1px solid #e77c40;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~
+    Icon Color Style
+ ~~~~~~~~~~~~~~~~~~~~~ */
+.fas {
+    color: #e77c40;
+}
+.far {
+    color: #e77c40;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~
+    Icon Color Style
+ ~~~~~~~~~~~~~~~~~~~~~ */
