@@ -1,3 +1,8 @@
 header {
     background-color: #264653;
 }
+
+/* Latest News Width */
+.news {
+    width: 377px;
+}
